@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" height="150" alt="Sakar Mahat">
+  <img src="https://github.com/monkey-with-a-flower.png" width="150" height="150" alt="Sakar Mahat">
 </p>
 
-<h1 align="center">🚀 Sakar Mahat</h1>
+<h1 align="center">Hi there 👋, I'm Sakar Mahat</h1>
 
 <p align="center">
 Cybersecurity student • Tech hobbyist • Ethical hacker • Blogger  
 📍 Sydney, Australia  
-🌐 <a href="https://sakarmahat.com">sakarmahat.com</a>  
-🗓️ Public Repos: 12 • Followers: 20 • Following: 5  
 </p>
 
 <p align="center">
