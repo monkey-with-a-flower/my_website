@@ -1,21 +1,28 @@
-# 🚀 Sakar Mahat
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" height="150" alt="Sakar Mahat">
+</p>
 
-**Cybersecurity student** • **Tech hobbyist** • **Ethical hacker** • **Blogger**
+<h1 align="center">🚀 Sakar Mahat</h1>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monkey-with-a-flower)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakar-mahat-60959b359)
-[![Email](https://img.shields.io/badge/Email-contact@sakarmahat.com-blue?style=for-the-badge)](mailto:contact@sakarmahat.com)
+<p align="center">
+Cybersecurity student • Tech hobbyist • Ethical hacker • Blogger  
+📍 Sydney, Australia  
+🌐 <a href="https://sakarmahat.com">sakarmahat.com</a>  
+🗓️ Public Repos: 12 • Followers: 20 • Following: 5  
+</p>
 
----
+<p align="center">
+<a href="https://github.com/monkey-with-a-flower">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/sakar-mahat-60959b359">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:contact@sakarmahat.com">
+  <img src="https://img.shields.io/badge/Email-contact@sakarmahat.com-blue?style=for-the-badge" alt="Email">
+</a>
+</p>
 
-## 📂 My Public Repositories
-
-| Name | Description |
-| ---- | ----------- |
-| [repo-name-1](https://github.com/monkey-with-a-flower/repo-name-1) | repo description 1 |
-| [repo-name-2](https://github.com/monkey-with-a-flower/repo-name-2) | repo description 2 |
-| [repo-name-3](https://github.com/monkey-with-a-flower/repo-name-3) | repo description 3 |
-
----
-
-_Last updated: 2025-06-21_
+<p align="center">
+<em>Last updated: 2025-06-21</em>
+</p>
