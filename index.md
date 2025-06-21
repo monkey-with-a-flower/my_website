@@ -61,7 +61,7 @@ Always curious and always learning. 🚀
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:sakarmahat62@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact@sakarmahat.com-blue?style=for-the-badge" alt="Email">
+  <img src="https://img.shields.io/badge/Email-sakarmahat62@gmail.com-blue?style=for-the-badge" alt="Email">
 </a>
 </p>
 
