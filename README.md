@@ -38,7 +38,7 @@ Always curious and always learning. 🚀
 - 🏗️ Building home lab for testing tools
 - ☁️ Cloud Security (Azure / AWS)
 - 🤖 Automation and Scripting
-- ![PlaygroundImage](https://github.com/user-attachments/assets/75d0877f-ff33-4d3c-a7f6-2e7dc90af331)MITM proxy and interception
+- 👾 MITM proxy and interception
 
 ---
 
