@@ -38,6 +38,7 @@ Always curious and always learning. 🚀
 - 🏗️ Building home lab for testing tools
 - ☁️ Cloud Security (Azure / AWS)
 - 🤖 Automation and Scripting
+- ![PlaygroundImage](https://github.com/user-attachments/assets/75d0877f-ff33-4d3c-a7f6-2e7dc90af331)MITM proxy and interception
 
 ---
 
@@ -58,7 +59,7 @@ Always curious and always learning. 🚀
 <a href="https://www.linkedin.com/in/sakar-mahat-60959b359">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:contact@sakarmahat.com">
+<a href="mailto:sakarmahat62@gmail.com">
   <img src="https://img.shields.io/badge/Email-contact@sakarmahat.com-blue?style=for-the-badge" alt="Email">
 </a>
 </p>
