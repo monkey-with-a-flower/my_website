@@ -2,12 +2,54 @@
   <img src="https://github.com/monkey-with-a-flower.png" width="150" height="150" alt="Sakar Mahat">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Sakar Mahat</h1>
+<h1 align="center">Hi there 👋, I'm <strong>Sakar Mahat</strong>!</h1>
 
 <p align="center">
-Cybersecurity student • Tech hobbyist • Ethical hacker • Blogger  
-📍 Sydney, Australia  
+🔐 Cybersecurity Student • 💻 Tech Hobbyist • 🧑‍💻 Ethical Hacker • ✍️ Blogger  
+📍 Sydney, Australia 🇦🇺  
+🌐 <a href="https://sakarmahat.com">sakarmahat.com</a>  
 </p>
+
+---
+
+## 📖 About Me
+
+I'm a passionate **Cybersecurity student** based in Sydney, Australia 🇦🇺.  
+I love exploring the latest in **technology**, practicing **ethical hacking**, writing **tutorials**, and learning new tools & skills every day.  
+Always curious and always learning. 🚀
+
+---
+
+## ⚡ Skills & Tools
+
+- 🔐 Cybersecurity Fundamentals
+- 🛠️ Linux (Ubuntu), Kali Linux
+- 💻 Python, Bash scripting
+- 🌐 HTML, CSS
+- 🕸️ Network Security & Intrusion Detection
+- ☁️ Amazon AWS
+- 🛡️ pfSence , Proxmox , snort , splunk 
+
+---
+
+## 🚀 Currently Learning
+
+- 🐍 Advanced Python for Cybersecurity
+- 🏗️ Building home lab for testing tools
+- ☁️ Cloud Security (Azure / AWS)
+- 🤖 Automation and Scripting
+
+---
+
+## 🎮 Hobbies
+
+- 📚 Reading Cybersecurity Blogs
+- 🎮 Gaming (FPS & strategy)
+- 🥘 Food enthusiast & cook
+- ✍️ Writing tech tutorials
+
+
+---
 
 <p align="center">
 <a href="https://github.com/monkey-with-a-flower">
